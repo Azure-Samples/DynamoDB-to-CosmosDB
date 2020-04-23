@@ -6,7 +6,6 @@ products:
 - dotnet
 - azure-cosmos-db
 description: "This is the code guidance to migrate dynamodb to cosmosdb"
-urlFragment: ""
 ---
 
 # Guidance to migrate DynamoDB to Cosmos DB
